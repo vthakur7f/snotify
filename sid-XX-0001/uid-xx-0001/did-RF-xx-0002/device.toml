@@ -1,0 +1,22 @@
+[[Temperature]] # name
+    
+    [SE98]   
+    disc = "x86"
+    
+    [ADT]
+    disc = "DDR"
+
+    [TMP464]
+    disc = "PMIC"
+
+[[Power]] # name
+    
+    [INA226]   
+    disc = "PMIC"
+    
+[[ADC]]
+    [adc-0]
+    name = "TX1"
+    disc = "TX2"
+1
+1
